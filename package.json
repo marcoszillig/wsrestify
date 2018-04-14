@@ -1,0 +1,19 @@
+{
+  "name": "wsrestify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoszillig/wsrestify.git"
+  },
+  "author": "Marcos Zillig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoszillig/wsrestify/issues"
+  },
+  "homepage": "https://github.com/marcoszillig/wsrestify#readme"
+}
