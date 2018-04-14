@@ -11,9 +11,12 @@
     "url": "git+https://github.com/marcoszillig/wsrestify.git"
   },
   "author": "Marcos Zillig",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/marcoszillig/wsrestify/issues"
   },
-  "homepage": "https://github.com/marcoszillig/wsrestify#readme"
+  "homepage": "https://github.com/marcoszillig/wsrestify#readme",
+  "dependencies": {
+    "restify": "^7.1.1"
+  }
 }
